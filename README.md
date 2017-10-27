@@ -10,4 +10,4 @@
 
 -  [x] [Exercise_05:旋转的棒球落点、轨迹](https://www.zybuluo.com/napochi/note/922140)
 
--  [x] [Exercise_06:摆](https://www.zybuluo.com/napochi/note/930455)
+-  [x] [Exercise_06:摆](https://www.zybuluo.com/napochi/note/930455)
