@@ -15,3 +15,5 @@
 -  [x] [Exercise_07:非线性摆的bifurcation diagram](https://www.zybuluo.com/napochi/note/938927)
 
 -  [x] [Exercise_09:太阳-地球-木星三体问题](https://www.zybuluo.com/napochi/note/971473)
+
+-  [x] [Exercise_10:带电体周围电势分布](https://www.zybuluo.com/napochi/note/979439)
