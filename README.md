@@ -19,3 +19,5 @@
 -  [x] [Exercise_10:带电体周围电势分布](https://www.zybuluo.com/napochi/note/979439)
 
 -  [x] [Exercise_11:波的叠加原理](https://www.zybuluo.com/napochi/note/987788)
+
+-  [x] [Final Work](https://github.com/napochi/compuational_physics_N2015301020169/blob/master/%E7%94%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%A1%E7%AE%97%E4%B8%89%E7%BB%B4%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5.pdf)
